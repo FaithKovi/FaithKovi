@@ -10,11 +10,6 @@ I'm a creative and purpose-driven Cloud/DevOps Engineer with experience in conta
 - 🤔 I’m looking for help with DevOps roles and contributing to Open-source.
 - 💬 Ask me about DevOps.
 - 📫 How to reach me: faithkovi@gmail.com
-
-
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FVera__Kaka)
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https%3A%2F%2Flinkedin.com%2in%2faith-kovi)
-
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love reading, writing and the color blue.
 
