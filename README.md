@@ -13,3 +13,4 @@ I'm a creative and purpose-driven Cloud/DevOps Engineer with experience in conta
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love reading, writing and the color blue.
 
+[![@faithkovi's Holopin board](https://holopin.io/api/user/board?user=faithkovi)](https://holopin.io/@faithkovi)
