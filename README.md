@@ -32,6 +32,7 @@ I'm a creative and purpose-driven Cloud/DevOps Engineer with experience in conta
   <a href="mailto:faithkovi@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
 
+## 👀 View my Holopin badges
 [![@faithkovi's Holopin board](https://holopin.io/api/user/board?user=faithkovi)](https://holopin.io/@faithkovi)
 
 ## 📈 Github Stats
