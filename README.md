@@ -1,4 +1,14 @@
 ### ☁️ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
+<!-- Animation Typing -->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Faith+Kovi.;I'm+a+DevOps+Engineer;"></a>
+</p>
+
+<!-- Animation Typing: END -->
+
 <hr>
 I'm a creative and purpose-driven Cloud/DevOps Engineer with experience in containerization, implementing CI/CD deployments on microservice architecture and maintaining infrastructure. I have a strong communication, collaborative, problem-solving and analytical skills.
 
@@ -44,4 +54,5 @@ I'm a creative and purpose-driven Cloud/DevOps Engineer with experience in conta
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=FaithKovi&show_icons=true&theme=midnight-purple" height=220 />
   </a>
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FaithKovi&&theme=tokyonight" alt="FaithKovi" /></p>
 
