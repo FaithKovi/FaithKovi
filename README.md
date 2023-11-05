@@ -37,7 +37,7 @@ I'm a creative and purpose-driven Cloud/DevOps Engineer with experience in conta
 
 <p align="center">
   <a href="https://twitter.com/Vera__Kaka"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-  <a href="https://medium.com/@cyber-kaka"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
+  <a href="https://medium.com/@vera-kaka"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/faith-kovi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
   <a href="mailto:faithkovi@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
