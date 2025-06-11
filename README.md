@@ -1,26 +1,21 @@
 ### ☁️ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-
 <!-- Animation Typing -->
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Faith+Kovi.;I'm+a+DevOps+Engineer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Faith+Kovi.;I'm+a+Documentation+Engineer;I'm+a+Technical+Writer;I+create+developer-focused+documentation"></a>
 </p>
-
 <!-- Animation Typing: END -->
-
 <hr>
-I'm a creative and purpose-driven Cloud/DevOps Engineer with experience in containerization, implementing CI/CD deployments on microservice architecture and maintaining infrastructure. I have a strong communication, collaborative, problem-solving and analytical skills.
+I'm a Documentation Engineer and Technical Writer skilled in creating developer-focused documentation that simplifies complex technical concepts. I have experience collaborating with engineering teams to enhance product understanding, create comprehensive API documentation, and improve user experience. I'm passionate about documentation-as-code workflows and committed to delivering technically accurate, user-centered documentation.
+<br></br>
 
-
-- 🔭 I’m currently working on building my DevOps skills while working on projects.
-- 🌱 I’m currently learning Kubernetes
-- 👯 I’m looking to collaborate on DevOps, technical writing, and cloud native tools.
-- 🤔 I’m looking for help with DevOps roles, Technical writing roles, and contributing to Open-source.
-- 💬 Ask me about DevOps.
+- 🔭 I'm currently building developer-focused documentation and technical content.
+- 🌱 I'm currently learning advanced documentation tools and workflows.
+- 👯 I'm looking to collaborate on technical writing and open-source documentation.
+- 🤔 I'm looking for help with Documentation Engineer and Technical Writing roles.
+- 💬 Ask me about technical writing, API documentation, and developer experience.
 - 📫 How to reach me: faithkovi@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love reading, writing and the color blue.
+- ⚡ Fun fact: I love reading, writing, and the color blue. I've reduced developer support tickets by 80% through better documentation!
 
 ## 🤝 Let's connect
 
@@ -32,6 +27,21 @@ I'm a creative and purpose-driven Cloud/DevOps Engineer with experience in conta
 </p>
 
 ## 🔧Technologies and Tools
+
+### Technical Writing & Documentation
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![GitBook](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)
+![Mintlify](https://img.shields.io/badge/Mintlify-0EA5E9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEwIDJMMTggMTBMMTAgMThMMiAxMEwxMCAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
+![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20Workflows-F05032?style=for-the-badge&logo=git&logoColor=white)
+![API Documentation](https://img.shields.io/badge/API%20Documentation-009688?style=for-the-badge&logo=swagger&logoColor=white)
+![Developer Guides](https://img.shields.io/badge/Developer%20Guides-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
+![Technical Tutorials](https://img.shields.io/badge/Technical%20Tutorials-FF6B6B?style=for-the-badge&logo=readme&logoColor=white)
+
 ### Cloud Platform
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
@@ -83,6 +93,12 @@ I'm a creative and purpose-driven Cloud/DevOps Engineer with experience in conta
 
 ### Others
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+## 📚 Featured Projects
+#### Portfolio Website
+Built a responsive portfolio website using <b>Docusaurus</b>, showcasing technical writing samples, project documentation, and professional experience. Implemented modern web development practices with React components, optimized for performance and SEO.
+#### Cloud Resume API
+Developed and automated a CI/CD pipeline using <b>GitHub Actions</b> to provision infrastructure on <b>AWS</b> with <b>Terraform</b>, including <b>S3</b>, <b>DynamoDB</b>, <b>Lambda</b>, and <b>API Gateway</b>. Documented infrastructure provisioning workflows comprehensively.
 
 
 ## 👀 View my Holopin badges
