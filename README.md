@@ -1,7 +1,7 @@
 ### ☁️ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <!-- Animation Typing -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Faith+Kovi.;I'm+a+Documentation+Engineer;I'm+a+Technical+Writer;I+create+developer-focused+documentation"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Faith+Wachukwu.;I'm+a+Documentation+Engineer;I'm+a+Technical+Writer;I+create+developer-focused+documentation"></a>
 </p>
 <!-- Animation Typing: END -->
 <hr>
@@ -15,7 +15,7 @@ I'm a Documentation Engineer and Technical Writer skilled in creating developer-
 - 💬 Ask me about technical writing, API documentation, and developer experience.
 - 📫 How to reach me: faithkovi@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love reading, writing, and the color blue. I've reduced developer support tickets by 80% through better documentation!
+- ⚡ Fun fact: I love reading, writing on my [blog](https://faithkovi.xyz/blog/), and the color blue. I've reduced developer support tickets by 80% through better documentation!
 
 ## 🤝 Let's connect
 
