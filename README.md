@@ -15,7 +15,7 @@ I'm a Documentation Engineer and Technical Writer skilled in creating developer-
 - 💬 Ask me about technical writing, API documentation, and developer experience.
 - 📫 How to reach me: faithkovi@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love reading, writing on my [blog](https://faithkovi.xyz/blog/), and the color blue. 
+- ⚡ Fun fact: I love reading, writing on my [blog](https://faithwachukwu.com/blog/), and the color blue. 
 
 ## 🤝 Let's connect
 
