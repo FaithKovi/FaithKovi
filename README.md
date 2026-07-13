@@ -26,6 +26,16 @@ I'm a Documentation Engineer and Technical Writer skilled in creating developer-
   <a href="mailto:faithkovi@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
 
+## 📚 Featured Projects
+#### [Runbook as Code](https://github.com/FaithKovi/runbook-as-code)
+Docs-as-code site of executable AWS incident-response runbooks (ECS, RDS, Lambda, ALB), built with Zensical and deployed to Netlify. Enforced a consistent runbook template via a custom Python structure validator and ShellCheck linting in GitHub Actions CI, with automated deploys and per-PR previews.
+#### [AI Changelog Generator](https://github.com/FaithKovi/changelog-generator)
+A Python CLI tool that reads git commit history and generates polished, categorized changelogs using Gemini’s API or Claude’s API. Parses commits, filters noise, groups changes by type (Added, Changed, Fixed, Security), and outputs publish-ready markdown following the Keep a Changelog standard. Includes a --prepend flag for incremental updates and a GitHub Actions workflow for automated release notes.
+#### [Portfolio Website](https://faithwachukwu.com)
+Built a responsive portfolio website using <b>Docusaurus</b>, showcasing technical writing samples, project documentation, and professional experience. Implemented modern web development practices with React components, optimized for performance and SEO.
+
+
+
 ## 🔧Technologies and Tools
 
 ### Technical Writing & Documentation
@@ -93,13 +103,6 @@ I'm a Documentation Engineer and Technical Writer skilled in creating developer-
 
 ### Others
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-## 📚 Featured Projects
-#### Portfolio Website
-Built a responsive portfolio website using <b>Docusaurus</b>, showcasing technical writing samples, project documentation, and professional experience. Implemented modern web development practices with React components, optimized for performance and SEO.
-#### Cloud Resume API
-Developed and automated a CI/CD pipeline using <b>GitHub Actions</b> to provision infrastructure on <b>AWS</b> with <b>Terraform</b>, including <b>S3</b>, <b>DynamoDB</b>, <b>Lambda</b>, and <b>API Gateway</b>. Documented infrastructure provisioning workflows comprehensively.
-
 
 ## 👀 View my Holopin badges
 [![@faithkovi's Holopin board](https://holopin.io/api/user/board?user=faithkovi)](https://holopin.io/@faithkovi)
